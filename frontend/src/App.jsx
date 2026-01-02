@@ -110,12 +110,6 @@ function App() {
           />
         </div>
       </main>
-
-      <footer className="app-footer">
-        <div className="container">
-          <p>&copy; {new Date().getFullYear()} Contact Management System. All rights reserved.</p>
-        </div>
-      </footer>
     </div>
   );
 }
