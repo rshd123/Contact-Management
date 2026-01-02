@@ -20,7 +20,7 @@ export default defineConfig({
   },
   server: {
     host: '0.0.0.0',
-    allowedHosts: ['https://contact-management-qh5f.onrender.com'],
+    allowedHosts: ['https://contact-management-q84w.onrender.com'],
     port: 5173,
     open: true,
   },
